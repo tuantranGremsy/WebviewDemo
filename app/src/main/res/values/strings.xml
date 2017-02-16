@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Webview Demo</string>
+    <string name="url_hint">Insert your Url here</string>
+    <string name="btn_open">Open</string>
+</resources>
